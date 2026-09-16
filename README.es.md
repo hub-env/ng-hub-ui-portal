@@ -11,6 +11,7 @@ Este paquete forma parte de [Hub UI](https://hubui.dev/en/), una colección de l
 - Documentación: https://hubui.dev/en/portal/overview/
 - Ejemplos en vivo: https://hubui.dev/en/portal/examples/
 - Hub UI: https://hubui.dev/en/
+- Hub UI en GitHub (incidencias, roadmap y cómo contribuir): https://github.com/hub-env/hub-ui
 
 ## 🧩 Familia de librerías `ng-hub-ui`
 
@@ -637,7 +638,7 @@ La versión actual es la **22.2.0**.
 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/carlos-morcillo/ng-hub-ui-portal.git
+git clone https://github.com/hub-env/ng-hub-ui-portal.git
 cd ng-hub-ui-portal
 ```
 

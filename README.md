@@ -11,6 +11,7 @@ This package is part of [Hub UI](https://hubui.dev/en/), a collection of Angular
 - Docs: https://hubui.dev/en/portal/overview/
 - Live examples: https://hubui.dev/en/portal/examples/
 - Hub UI: https://hubui.dev/en/
+- Hub UI on GitHub (issues, roadmap and contributing): https://github.com/hub-env/hub-ui
 
 ## 🧩 Library Family `ng-hub-ui`
 
@@ -636,7 +637,7 @@ We welcome all contributions! Here's how you can help.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/carlos-morcillo/ng-hub-ui-portal.git
+git clone https://github.com/hub-env/ng-hub-ui-portal.git
 cd ng-hub-ui-portal
 ```
 

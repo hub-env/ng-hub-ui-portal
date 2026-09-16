@@ -21,10 +21,10 @@
 	"author": "Carlos Morcillo <carlos.morcillo@me.com> (https://www.carlosmorcillo.com)",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/carlos-morcillo/ng-hub-ui-portal"
+		"url": "git+https://github.com/hub-env/ng-hub-ui-portal.git"
 	},
 	"bugs": {
-		"url": "https://github.com/carlos-morcillo/ng-hub-ui-portal/issues"
+		"url": "https://github.com/hub-env/hub-ui/issues"
 	},
 	"homepage": "https://hubui.dev/en/portal/overview/",
 	"license": "MIT",
