@@ -16,7 +16,8 @@
 		"typescript",
 		"hub-ui",
 		"accessibility",
-		"a11y"
+		"a11y",
+		"ng-hub-ui"
 	],
 	"author": "Carlos Morcillo <carlos.morcillo@me.com> (https://www.carlosmorcillo.com)",
 	"repository": {
