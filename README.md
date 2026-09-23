@@ -143,7 +143,7 @@ The library is **headless and structural** by design: it manages rendering, focu
 npm install ng-hub-ui-portal ng-hub-ui-utils
 ```
 
-> **Peer dependency:** `ng-hub-ui-portal` relies on [`ng-hub-ui-utils`](https://www.npmjs.com/package/ng-hub-ui-utils) (`>=22.0.0`) for shared overlay/content helpers, alongside `@angular/common` and `@angular/core` (`>=18.0.0`). Make sure it is installed in your application.
+> **Peer dependency:** `ng-hub-ui-portal` relies on [`ng-hub-ui-utils`](https://www.npmjs.com/package/ng-hub-ui-utils) (`>=22.0.0`) for shared overlay/content helpers, alongside `@angular/common` and `@angular/core` (`>=17.3.0`). Make sure it is installed in your application.
 
 ## ⚙️ Basic Usage
 

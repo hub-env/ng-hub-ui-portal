@@ -143,7 +143,7 @@ La librería es **headless y estructural** por diseño: gestiona el renderizado,
 npm install ng-hub-ui-portal ng-hub-ui-utils
 ```
 
-> **Dependencia de pares (peer dependency):** `ng-hub-ui-portal` depende de [`ng-hub-ui-utils`](https://www.npmjs.com/package/ng-hub-ui-utils) (`>=22.0.0`) para utilidades compartidas de superposición/contenido, junto con `@angular/common` y `@angular/core` (`>=18.0.0`). Asegúrate de tenerla instalada en tu aplicación.
+> **Dependencia de pares (peer dependency):** `ng-hub-ui-portal` depende de [`ng-hub-ui-utils`](https://www.npmjs.com/package/ng-hub-ui-utils) (`>=22.0.0`) para utilidades compartidas de superposición/contenido, junto con `@angular/common` y `@angular/core` (`>=17.3.0`). Asegúrate de tenerla instalada en tu aplicación.
 
 ## ⚙️ Uso básico
 
